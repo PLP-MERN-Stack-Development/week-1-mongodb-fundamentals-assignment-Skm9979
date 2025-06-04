@@ -1,7 +1,12 @@
+##UPDATING README
+i).SUCCESSFULLY INSTALLED MONGO COMPASS AND SHELL
+ii)PERFORMED ALL CRUDE OPERATION
+iii)ADDED QUERIS.JS AND SCREENSHOT,.PNG
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19689836&assignment_repo_type=AssignmentRepo)
 # MongoDB Fundamentals Assignment
 
-This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
+This assignment focuses on learning Mong
+oDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
 
 ## Assignment Overview
 
